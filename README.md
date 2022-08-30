@@ -27,7 +27,7 @@ search is moving along.
 
 - Multistart search: This search applies several local-searchs to random solutions. The best of them or the one that satisfies a certain condition will be return.
 
-- ILS-SA hybridization: SA is used instead local-search.
+- ILS-SA hybridization: SA is used instead of local-search.
 
 -----HOW TO RUN IT-----
 
