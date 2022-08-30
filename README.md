@@ -33,7 +33,7 @@ search is moving along.
 
 1 - To compile run "make" in the terminal.
 
-2 - To run the program go to the terminal and run "./bin/p2 <seed> <parameter>" where
+2 - To run the program go to the terminal and run "./bin/p3 <seed> <parameter>" where
 <seed> is the seed we choose and
 <parameter> can be:
 		-> 1: spectf-heart
